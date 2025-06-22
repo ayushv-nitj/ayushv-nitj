@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Verma
 
-<!--
-**ayushv-nitj/ayushv-nitj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌙 Late night coder | he/him
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE | 2nd Year @ NIT Jamshedpur  
+💻 Web Development | Competitive Programming | AI/ML Enthusiast  
+🛠️ Tech Stack: C++ | JavaScript | React | Express | Node.js | MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect with me:
+- 🌐 [Website](https://ayushv-nitj.github.io/team-phoenix-website/index.html)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-verma-jsr25)  
+- 📸 [Instagram](https://www.instagram.com/av_alanche._/?igsh=cGFkcDJyN3c5dDE5)
+
+---
+
+### 🚀 Featured Project:
+**[team-phoenix-website](https://ayushv-nitj.github.io/team-phoenix-website/index.html)**  
+This website serves as the central hub for Team Phoenix, showcasing projects, documents, and progress updates.
+
+⭐ HTML | CSS | JS | Firebase
