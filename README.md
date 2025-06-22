@@ -9,7 +9,7 @@
 ---
 
 ### 🔗 Connect with me:
-- 🌐 [Website](https://ayushv-nitj.github.io/team-phoenix-website/index.html)  
+- 🌐 [Portfolio](https://ayushv-nitj.github.io/team-phoenix-website/index.html)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayush-verma-jsr25)  
 - 📸 [Instagram](https://www.instagram.com/av_alanche._/?igsh=cGFkcDJyN3c5dDE5)
 
