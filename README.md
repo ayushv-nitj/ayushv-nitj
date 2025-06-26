@@ -8,7 +8,9 @@
 ### 🚀 Featured Projects:
 **[team-phoenix-website](https://ayushv-nitj.github.io/team-phoenix-website/index.html)**  
 This website serves as the central hub for Team Phoenix, showcasing projects, documents, and progress updates.
+
 ⭐ HTML | CSS | JS | Firebase
+
 
 **[Finger Counter](https://github.com/ayushv-nitj/Finger_Counter_Python.git)**  
 This real-time computer vision app uses a webcam to detect hand landmarks and accurately count the number of fingers raised. It's a fun and intuitive way to explore hand tracking, gesture recognition, and real-time video processing — all built in Python. 🧠💻
