@@ -22,3 +22,10 @@ This real-time computer vision app uses a webcam to detect hand landmarks and ac
 A fun and interactive **AI-powered virtual painting** tool built using **Python**, **OpenCV**, **MediaPipe**, and **Pycaw**. This project lets you draw on the screen using just your fingers — no mouse or touchscreen required!🧠💻
 
 ⭐ Python | OpenCV | Mediapipe | PyCharm
+
+
+**[Linkedin AdsBlocker Extension](https://github.com/ayushv-nitj/LinkedIn-AdsBlocker-Extension.git)**  
+LinkedIn AdBlocker is a Chrome extension that hides sponsored posts for a cleaner feed. Built with JavaScript and Manifest V3, it detects “Promoted” content in real time and displays the number of ads blocked through a simple popup UI.🧠💻
+
+⭐ JavaScript | HTML/CSS | Manifest V3 | Chrome Extension APIs 
+
