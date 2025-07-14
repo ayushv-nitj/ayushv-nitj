@@ -1,5 +1,5 @@
 ### 🔗 Connect with me:
-- 🌐 [Portfolio](https://ayushv-nitj.github.io/Portfolio/)  
+- 🌐 [Portfolio](https://ayushv-nitj.github.io/Portfolio-AV/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayush-verma-jsr25)  
 - 📸 [Instagram](https://www.instagram.com/av_alanche._/?igsh=cGFkcDJyN3c5dDE5)
 
