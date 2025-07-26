@@ -36,3 +36,7 @@ LinkedIn AdBlocker is a Chrome extension that hides sponsored posts for a cleane
 ⭐ JavaScript | HTML/CSS | Manifest V3 | Chrome Extension APIs 
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushv-nitj&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayushv-nitj)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushv-nitj&theme=dracula)
