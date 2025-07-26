@@ -8,6 +8,11 @@
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushv-nitj&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushv-nitj&layout=compact&theme=radical)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushv-nitj&theme=dark&hide_border=true)
+
 ---
 
 ### 🚀 Featured Projects:
@@ -45,12 +50,10 @@ LinkedIn AdBlocker is a Chrome extension that hides sponsored posts for a cleane
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushv-nitj&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ayushv-nitj&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushv-nitj&layout=compact&theme=radical)
 
 ![Metrics](https://metrics.lecoq.io/ayushv-nitj?template=classic&languages=1&stars=1&isocalendar=1)
 
 ![](https://komarev.com/ghpvc/?username=ayushv-nitj&color=green)
 
-![Snake animation](https://github.com/ayushv-nitj/ayushv-nitj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ayushv-nitj/blob/output/github-contribution-grid-snake.svg)
