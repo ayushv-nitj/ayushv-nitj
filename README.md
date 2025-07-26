@@ -4,6 +4,7 @@
 - 📸 [Instagram](https://www.instagram.com/av_alanche._/?igsh=cGFkcDJyN3c5dDE5)
 
 ---
+### 📊 My Github Stats:
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushv-nitj&show_icons=true&theme=radical)
 
