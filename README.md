@@ -5,6 +5,10 @@
 
 ---
 
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushv-nitj&show_icons=true&theme=radical)
+
+---
+
 ### 🚀 Featured Projects:
 **[1) Live Discussion Forum](https://discussion-forum-topaz.vercel.app/)**  
 This online discussion forum is built to help teams collaborate, brainstorm, and communicate more efficiently in real-time.
@@ -35,7 +39,6 @@ LinkedIn AdBlocker is a Chrome extension that hides sponsored posts for a cleane
 
 ⭐ JavaScript | HTML/CSS | Manifest V3 | Chrome Extension APIs 
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushv-nitj&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayushv-nitj)](https://github.com/ryo-ma/github-profile-trophy)
 
