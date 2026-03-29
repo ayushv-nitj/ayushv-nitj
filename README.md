@@ -7,7 +7,6 @@ Currently exploring **systems, scalable web apps, and applied machine learning**
 ---
 
 ## 🔗 Connect with me
-- 🌐 Portfolio: https://ayushv-nitj.github.io/Portfolio-AV/  
 - 💼 LinkedIn: https://www.linkedin.com/in/ayush-verma-jsr25  
 
 ---
