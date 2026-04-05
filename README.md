@@ -14,11 +14,6 @@ Currently exploring **systems, scalable web apps, and applied machine learning**
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushv-nitj&show_icons=true&theme=radical&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushv-nitj&layout=compact&theme=radical&cache_seconds=86400" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ayushv-nitj&theme=dark&hide_border=true" />
 </p>
 
@@ -28,7 +23,7 @@ Currently exploring **systems, scalable web apps, and applied machine learning**
 
 ## 🔹 Xavenir — Official Website for Society of Computer Science and Engineering NIT Jamshedpur  
 
-🔗 **Live:** <a href="https://scse-xavenir.vercel.app/" target="_blank">link</a>  
+🔗 **Live:** <a href="https://scse-nitjsr.in/" target="_blank">link</a>  
 
 💻 **GitHub:** <a href="https://github.com/ayushv-nitj/scse-xavenir.git" target="_blank">Repo</a>  
 
